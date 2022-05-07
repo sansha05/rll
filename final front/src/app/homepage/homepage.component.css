@@ -1,0 +1,24 @@
+#toptext{
+    background-color: rgb(131, 65, 17);
+    color: rgb(240, 239, 232);
+}
+
+#toptext{
+    margin:2px;
+    
+   
+}
+#toptext p{
+    
+    font-size: 40px;
+
+}
+#login{
+    margin-left: 60%;
+    display:inline-block;
+    text-align: right;
+    
+}
+#logo{
+    display:inline-block
+}

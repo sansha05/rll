@@ -1,0 +1,15 @@
+#userlogin{
+    /* background-image: url("https://i.ibb.co/8gddGYg/recipie5.jpg"); */
+    background: linear-gradient(rgba(255,255,255,.5), rgba(0,0,0,.5)), url(https://img.freepik.com/free-photo/top-view-fried-tasty-potatoes-with-greens-tomatoes-gray-background-meal-dinner-meat-frying-food-dish-salad-tomato_140725-160702.jpg?t=st=1651901601~exp=1651902201~hmac=2e6c583d7367b3398785f321ce2d645ca0e6f77d04ba4754db9f80360e2e137b&w=996);
+    background-color: skyblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:666px;
+    width:50%;
+    margin-top: 5%;
+    margin-left: 25%;  
+}
+#user{
+    /* margin-top:33%; */
+    margin-left:20% ;
+}

@@ -8,6 +8,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 import { HttpClientModule } from '@angular/common/http';
 import { UserRecipeDetailComponent } from './user-recipe-detail/user-recipe-detail.component';
+import { UserReviewComponent } from './user-review/user-review.component';
 
 
 
@@ -17,7 +18,8 @@ import { UserRecipeDetailComponent } from './user-recipe-detail/user-recipe-deta
     UserRegisterComponent,
     UserDashboardComponent,
     UserBooklistComponent,
-    UserRecipeDetailComponent
+    UserRecipeDetailComponent,
+    UserReviewComponent
    
   ],
   imports: [

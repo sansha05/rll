@@ -1,0 +1,24 @@
+#userlogin{
+    background-image: url("https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+    background-color: skyblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    padding: 10px;
+    height:750px;
+    width:50%;
+    opacity: 0.8;
+    z-index: -1;
+
+
+  
+    margin-left: 25%; 
+
+}
+#user{
+    margin-top:33%;
+    margin-left:20% ;
+}
+.navbar{
+    background-color: skyblue;
+}

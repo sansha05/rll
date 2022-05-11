@@ -1,0 +1,26 @@
+#userlogin{
+    
+    background: url(https://images.unsplash.com/photo-1651604033534-e66b281f1981?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw0NDY2NDA2fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+    background-color: skyblue;
+    background-repeat: no-repeat;
+    background-size: 1000px 1000px;
+    height:666px;
+    width:50%;
+    margin-top: 1%;
+    margin-left: 25%;  
+}
+#user{
+    /* margin-top:33%; */
+    margin-left:20% ;
+}
+.mark, mark {
+    padding: 0.2em;
+    background-color: #fcf8e3;
+    border-radius: 3px;
+    border-color: 2px black;
+    border-style: solid;
+    border-width: 15px;
+}
+.navbar{
+    background-color: rgb(100, 164, 190);
+}
